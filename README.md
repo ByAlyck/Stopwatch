@@ -17,7 +17,7 @@ This is a simple stopwatch made with HTML, CSS, and JavaScript. It allows you to
 
 The project has the following file structure:
 
-![Imagem do WhatsApp de 2023-06-05 à(s) 08 59 29](https://github.com/ByAlyck/Stopwatch/assets/113322342/74331728-96e9-41c8-a08d-9a4dea5ebd30)
+![Structure](https://github.com/ByAlyck/Stopwatch/assets/113322342/74331728-96e9-41c8-a08d-9a4dea5ebd30)
 
 
 
