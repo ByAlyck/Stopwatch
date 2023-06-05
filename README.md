@@ -2,7 +2,7 @@
 
 This is a simple stopwatch made with HTML, CSS, and JavaScript. It allows you to measure time accurately and provides basic functionalities such as starting, pausing, and resetting the stopwatch.
 
-## Features
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 - Start the stopwatch: Click the "Start" button to begin the stopwatch.
 - Pause the stopwatch: Click the "Pause" button to pause the stopwatch. You can resume the countdown from where you left off.
 - Reset the stopwatch: Click the "Reset" button to reset the stopwatch and restart the countdown from zero.
