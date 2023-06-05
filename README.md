@@ -25,5 +25,5 @@ The project has the following file structure:
 - `style.css`: The CSS file that defines the visual style of the stopwatch.
 - `script.js`: The JavaScript file that controls the functionality of the stopwatch.
 
-## Contributing
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
