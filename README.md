@@ -1,4 +1,4 @@
-# Stopwatch
+# 𝗦𝘁𝗼𝗽𝘄𝗮𝘁𝗰𝗵
 
 This is a simple stopwatch made with HTML, CSS, and JavaScript. It allows you to measure time accurately and provides basic functionalities such as starting, pausing, and resetting the stopwatch.
 
