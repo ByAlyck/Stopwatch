@@ -13,7 +13,7 @@ This is a simple stopwatch made with HTML, CSS, and JavaScript. It allows you to
 3. You will see the stopwatch on the screen.
 4. Use the "Start," "Pause," and "Reset" buttons to control the stopwatch.
 
-## File Structure
+## 𝗙𝗶𝗹𝗲 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
 The project has the following file structure:
 
