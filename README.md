@@ -17,10 +17,8 @@ This is a simple stopwatch made with HTML, CSS, and JavaScript. It allows you to
 
 The project has the following file structure:
 
+![Imagem do WhatsApp de 2023-06-05 à(s) 08 59 29](https://github.com/ByAlyck/Stopwatch/assets/113322342/74331728-96e9-41c8-a08d-9a4dea5ebd30)
 
-├── a.html
-├── style.css
-└── script.js
 
 
 - `index.html`: The main HTML file that contains the stopwatch's structure.
@@ -29,6 +27,3 @@ The project has the following file structure:
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it according to your needs.
