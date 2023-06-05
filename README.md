@@ -7,7 +7,7 @@ This is a simple stopwatch made with HTML, CSS, and JavaScript. It allows you to
 - Pause the stopwatch: Click the "Pause" button to pause the stopwatch. You can resume the countdown from where you left off.
 - Reset the stopwatch: Click the "Reset" button to reset the stopwatch and restart the countdown from zero.
 
-## How to Use
+## 𝗛𝗼𝘄 𝘁𝗼 𝗨𝘀𝗲
 1. Clone or download the files from this repository.
 2. Open the `index.html` file in your web browser.
 3. You will see the stopwatch on the screen.
